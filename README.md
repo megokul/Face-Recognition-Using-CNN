@@ -101,3 +101,6 @@ Here are a few potential improvements for future iterations of this project:
 - **Real-time Face Recognition**: Extend the project to detect and recognize faces in real-time using webcam or live video streams.
 - **Additional Regularization**: Further experimentation with L2 regularization and more aggressive dropout to prevent overfitting.
 
+## License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code in this repository.
+
