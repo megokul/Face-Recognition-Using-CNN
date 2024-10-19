@@ -59,4 +59,6 @@ To run this project, the following dependencies are required:
 You can install the required packages using the following command:
 
 ```bash
-pip install numpy pandas matplotlib tensorflow scikit-learn mlxtend
+pip install numpy pandas matplotlib tensorflow scikit-learn keras mlxtend
+
+
