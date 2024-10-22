@@ -79,7 +79,7 @@ Evaluation Metrics:
 ## How to Use
 ### Clone the repository:
 ```bash
-git clone https://github.com/megokul/face-recognition-cnn.git
+git clone https://github.com/megokul/Face-Recognition-Using-CNN.git
 cd face-recognition-cnn
 ```
 
