@@ -80,7 +80,6 @@ Evaluation Metrics:
 ### Clone the repository:
 ```bash
 git clone https://github.com/megokul/Face-Recognition-Using-CNN.git
-cd face-recognition-cnn
 ```
 
 ## Installation
